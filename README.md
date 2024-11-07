@@ -14,7 +14,11 @@ Ejercicios realizados en clase para el manejo de sensores y actuadores con ESP32
 - **Ejercicio 5**: Medidor de distancia (Arduino)
 - **Ejercicio 6**: Matriz
 - **Ejercicio 7**: Potenciometro con oled
-- **Ejercicio 8**: Potenciometro con oled
+- **Ejercicio 8**: Potenciometro con matriz
+- **Ejercicio 9**: Matriz MAX73=219
+- **Ejercicio 10**: Marcapasos (micropyton)
+- **Ejercicio 11**: Marcapasos (arduino)
+- **Ejercicio 11**: Marcapasos (microphyton)
 - 
   
 
