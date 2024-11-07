@@ -3,7 +3,7 @@
 ## Ejercicio Práctico Integral
 **Descripción:** Ejercicio usando ESP32 y sensores de IoT para controlar componentes electrónicos.  
 **Video de demostración:** [Enlace al video](URL_DE_TU_VIDEO)  
-**Carpeta con el código y circuito:** [Ejercicio_Practico_Integral](./Ejercicio_Practico_Integral/)
+
 
 ## Ejercicios en Clase
 Ejercicios realizados en clase para el manejo de sensores y actuadores con ESP32.
@@ -44,7 +44,8 @@ Este proyecto consiste en una figura del Dr. Finkelstein equipada con varias fun
 
 
 **CAPTURA DEL SIRCUITO DE PRUEBA**  
-[Enlace al video](URL_DE_TU_VIDEO)
+![image](https://github.com/user-attachments/assets/1b5b2d80-71a6-444d-92f0-8924f490777e)
+
 
 **Boseto del proyecto navideño**  
 
