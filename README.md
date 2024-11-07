@@ -8,8 +8,12 @@
 ## Ejercicios en Clase
 Ejercicios realizados en clase para el manejo de sensores y actuadores con ESP32.
 - **Ejercicio 1**: Descripción breve  
-- **Ejercicio 2**: Descripción breve  
-- **Carpeta de ejercicios en clase:** [Ejercicios_Clase](./Ejercicios_Clase/)
+- **Ejercicio 2**: Descripción breve
+- **Ejercicio 2**: Descripción breve
+- **Ejercicio 2**: Descripción breve
+- **Ejercicio 2**: Descripción breve
+- **Ejercicio 2**: Descripción breve
+  
 
 ## Proyecto Navideño - Dr. Finkelstein
 
@@ -30,10 +34,13 @@ Este proyecto consiste en una figura del Dr. Finkelstein equipada con varias fun
    Se incluye un sensor de temperatura para monitorear el ambiente. Si la temperatura supera los 30°C, los LEDs en los ojos del Dr. Finkelstein se encienden en rojo, simulando una expresión de “calor” o “alerta” en respuesta al ambiente.
 
 **Video de demostración**  
+
+
+**CAPTURA DEL SIRCUITO DE PRUEBA**  
 [Enlace al video](URL_DE_TU_VIDEO)
 
-**Carpeta del proyecto navideño**  
-[Proyecto_Navideno](./Proyecto_Navideno/)
+**Boseto del proyecto navideño**  
+
 
 ## Curso de Python en NetAcad 
 - **MODULO 1**: ![image](https://github.com/user-attachments/assets/c86709f9-eb6d-47ed-9691-7e8b6c25fc3e)
