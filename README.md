@@ -14,15 +14,15 @@ Este repositorio contiene los trabajos realizados durante la Unidad 2 del curso 
 ## Ejercicios en Clase
 Ejercicios realizados en clase para el manejo de sensores y actuadores con ESP32. Cada ejercicio explora diferentes funcionalidades y métodos de control de dispositivos electrónicos.
 
-- **Ejercicio 1**: Buzzer
-- **Ejercicio 2**: LED Activado por Botón
-- **Ejercicio 3**: Sensor de Temperatura
-- **Ejercicio 4**: Medidor de Distancia (MicroPython)
-- **Ejercicio 5**: Medidor de Distancia (Arduino)
-- **Ejercicio 6**: Matriz LED
-- **Ejercicio 7**: Potenciómetro con OLED
-- **Ejercicio 8**: Potenciómetro con Matriz LED
-- **Ejercicio 9**: Matriz LED MAX7219
+- **Ejercicio 1**: Buzzer https://youtube.com/shorts/nvtMpoTyimg
+- **Ejercicio 2**: LED Activado por Botón https://youtube.com/shorts/EMo4zWZLx_M
+- **Ejercicio 3**: Sensor de Temperatura y humedad https://youtube.com/shorts/kO4c_Voy5dM
+- **Ejercicio 4**: Medidor de Distancia (MicroPython) https://youtube.com/shorts/7HnVX_QPnKM
+- **Ejercicio 5**: Medidor de Distancia (Arduino) https://youtube.com/shorts/292XR7KbwWQ
+- **Ejercicio 6**: Matriz LED https://youtube.com/shorts/BKaVshSyuf0
+- **Ejercicio 7**: Potenciómetro con OLED https://youtube.com/shorts/EyyohUaZCbw
+- **Ejercicio 8**: Potenciómetro con Matriz LED https://youtube.com/shorts/BRNMlEjsq1w
+- **Ejercicio 9**: Matriz LED MAX7219 https://youtube.com/shorts/5NLwRx2c7h8
 - **Ejercicio 10**: Simulador de Marcapasos (MicroPython)
 - **Ejercicio 11**: Simulador de Marcapasos (Arduino)
 
