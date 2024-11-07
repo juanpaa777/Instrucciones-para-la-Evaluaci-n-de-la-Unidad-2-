@@ -35,8 +35,18 @@ Este proyecto consiste en una figura del Dr. Finkelstein equipada con varias fun
 **Carpeta del proyecto navideño**  
 [Proyecto_Navideno](./Proyecto_Navideno/)
 
-## Curso de Python en NetAcad
-**Aplicación de conceptos de Python en IoT:** Breve descripción sobre cómo aplicarás Python en proyectos de IoT.  
+## Curso de Python en NetAcad 
+- **MODULO 1**: ![image](https://github.com/user-attachments/assets/c86709f9-eb6d-47ed-9691-7e8b6c25fc3e)
+- **MODULO 1**: ![image](https://github.com/user-attachments/assets/92c1776d-b904-431f-827d-255f3edf5cf0)
+- **MODULO 1**: ![image](https://github.com/user-attachments/assets/c1efdca9-ae69-40c9-a132-dc2a6184e878)
+- **MODULO 1**: ![image](https://github.com/user-attachments/assets/3f65761c-43d9-49e1-950b-d190fc07f7a9)
+- **MODULO 1**: ![image](https://github.com/user-attachments/assets/e5f6e392-5473-4307-bbc3-6966fdc110a8)
+
+
+
+
+
+
 **Capturas de avance:** [Curso_Python_NetAcad](./Curso_Python_NetAcad/)
 
 ## Coevaluación
