@@ -7,12 +7,15 @@
 
 ## Ejercicios en Clase
 Ejercicios realizados en clase para el manejo de sensores y actuadores con ESP32.
-- **Ejercicio 1**: Descripción breve  
-- **Ejercicio 2**: Descripción breve
-- **Ejercicio 2**: Descripción breve
-- **Ejercicio 2**: Descripción breve
-- **Ejercicio 2**: Descripción breve
-- **Ejercicio 2**: Descripción breve
+- **Ejercicio 1**: BUSSER  
+- **Ejercicio 2**: Led Acuado por un boton
+- **Ejercicio 3**: Sensor de temperatura 
+- **Ejercicio 4**: Medidor de distancia (micophyton)
+- **Ejercicio 5**: Medidor de distancia (Arduino)
+- **Ejercicio 6**: Matriz
+- **Ejercicio 7**: Potenciometro con oled
+- **Ejercicio 8**: Potenciometro con oled
+- 
   
 
 ## Proyecto Navideño - Dr. Finkelstein
