@@ -42,7 +42,7 @@ Este proyecto navideño presenta una figura del Dr. Finkelstein equipada con fun
 3. **Sensor de Temperatura con LEDs en los Ojos**  
    Un sensor de temperatura monitorea el ambiente y, si supera los 30°C, activa LEDs rojos en los ojos del Dr. Finkelstein, simulando una alerta visual.
 
-**Video de demostración:** [Enlace al video](URL_DE_TU_VIDEO)
+**Video de demostración:** https://youtu.be/fSPDTqr78u8
 
 **Captura del Circuito de Prueba**  
 ![image](https://github.com/user-attachments/assets/1b5b2d80-71a6-444d-92f0-8924f490777e)
