@@ -5,8 +5,8 @@ Este repositorio contiene los trabajos realizados durante la Unidad 2 del curso 
 
 ---
 
-## Ejercicio Práctico Integral
-**Descripción:** Implementación de un sistema IoT usando ESP32 y sensores para controlar diversos componentes electrónicos.  
+## Ejercicio Práctico Integral (ejercicio 12)
+**Descripción:** Implementación de un sistema IoT usando ESP32 y sensores para controlar diversos componentes electrónicos como la pantalla Oled, un busser, un foco rgb y un sensor de luz.  
 **Video de demostración:** [Enlace al video](https://youtu.be/zA02Cg3PXKs)  
 
 ---
