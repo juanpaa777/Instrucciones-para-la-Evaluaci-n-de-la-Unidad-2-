@@ -68,7 +68,7 @@ Durante el curso de Python en NetAcad, se exploraron conceptos fundamentales de 
 
 - **Aspectos positivos**: Samael ha demostrado una gran disposición para colaborar y aportar ideas frescas en el proyecto. Es creativo y siempre está dispuesto a probar soluciones nuevas, lo cual ha sido de gran ayuda en los ejercicios prácticos.
   
-- **Áreas de mejora**: Una sugerencia sería que Samael intente organizar un poco más sus proyectos antes de iniciarlos, ya que en ocasiones improvisa soluciones que podrían haberse evitado con una planificación previa.
+- **Áreas de mejora**:Ninguno hace un excelente trabajo y se desempeña muy bien a la hora de realizar los ejercicios prácticos.
 
 - **Aspectos negativos**: No hay nada negativo relevante, pero sería útil que prestara un poco más de atención a los detalles en los circuitos y conexiones para reducir errores pequeños.
 
