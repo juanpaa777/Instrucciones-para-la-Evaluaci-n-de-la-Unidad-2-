@@ -7,7 +7,7 @@ Este repositorio contiene los trabajos realizados durante la Unidad 2 del curso 
 
 ## Ejercicio Práctico Integral
 **Descripción:** Implementación de un sistema IoT usando ESP32 y sensores para controlar diversos componentes electrónicos.  
-**Video de demostración:** [Enlace al video](URL_DE_TU_VIDEO)  
+**Video de demostración:** [Enlace al video](https://youtu.be/zA02Cg3PXKs)  
 
 ---
 
@@ -23,8 +23,8 @@ Ejercicios realizados en clase para el manejo de sensores y actuadores con ESP32
 - **Ejercicio 7**: Potenciómetro con OLED https://youtube.com/shorts/EyyohUaZCbw
 - **Ejercicio 8**: Potenciómetro con Matriz LED https://youtube.com/shorts/BRNMlEjsq1w
 - **Ejercicio 9**: Matriz LED MAX7219 https://youtube.com/shorts/5NLwRx2c7h8
-- **Ejercicio 10**: Simulador de Marcapasos (MicroPython)
-- **Ejercicio 11**: Simulador de Marcapasos (Arduino)
+- **Ejercicio 10**:Motor de pasos (MicroPython) https://youtube.com/shorts/u_fALLlsc1U
+- **Ejercicio 11**:Motor de pasos (Arduino) https://youtube.com/shorts/psYGioRCH-M
 
 ---
 
