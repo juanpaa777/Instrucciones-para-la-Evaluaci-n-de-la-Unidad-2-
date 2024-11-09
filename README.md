@@ -23,8 +23,8 @@ Ejercicios realizados en clase para el manejo de sensores y actuadores con ESP32
 - **Ejercicio 7**: Potenciómetro con OLED https://youtube.com/shorts/EyyohUaZCbw
 - **Ejercicio 8**: Potenciómetro con Matriz LED https://youtube.com/shorts/BRNMlEjsq1w
 - **Ejercicio 9**: Matriz LED MAX7219 https://youtube.com/shorts/5NLwRx2c7h8
-- **Ejercicio 10**:Motor de pasos (MicroPython) https://youtube.com/shorts/u_fALLlsc1U
-- **Ejercicio 11**:Motor de pasos (Arduino) https://youtube.com/shorts/psYGioRCH-M
+- **Ejercicio 10**: Motor de pasos (MicroPython) https://youtube.com/shorts/u_fALLlsc1U
+- **Ejercicio 11**: Motor de pasos (Arduino) https://youtube.com/shorts/psYGioRCH-M
 
 ---
 
@@ -66,12 +66,13 @@ Durante el curso de Python en NetAcad, se exploraron conceptos fundamentales de 
 
 ### Retroalimentación sobre el trabajo de un compañero: Carlos Samael Aguayo Santana
 
-- **Aspectos positivos**: Descripción de los logros alcanzados y aspectos destacados.
-- **Áreas de mejora**: Sugerencias constructivas para mejorar el trabajo.
-- **Aspectos negativos**: Identificación de problemas o aspectos a corregir.
+- **Aspectos positivos**: Samael ha demostrado una gran disposición para colaborar y aportar ideas frescas en el proyecto. Es creativo y siempre está dispuesto a probar soluciones nuevas, lo cual ha sido de gran ayuda en los ejercicios prácticos.
+  
+- **Áreas de mejora**: Una sugerencia sería que Samael intente organizar un poco más sus proyectos antes de iniciarlos, ya que en ocasiones improvisa soluciones que podrían haberse evitado con una planificación previa.
+
+- **Aspectos negativos**: No hay nada negativo relevante, pero sería útil que prestara un poco más de atención a los detalles en los circuitos y conexiones para reducir errores pequeños.
 
 ---
 
 ## Contacto
-Para cualquier consulta o comentario sobre este proyecto, no dudes en contactarme a través de [tu correo o perfil de GitHub].
-
+Para cualquier consulta o comentario sobre este proyecto, no dudes en contactarme a través de juandiegopardozamrripa@gmail.com.
